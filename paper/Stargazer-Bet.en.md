@@ -1,7 +1,7 @@
 # Stargazer: Recurrent State for Causal Retrieval
 
 **The two-block Bet prototype, Chain5 ablations, and a reproduction protocol**  
-Research draft · 18 November 2026 · Author line pending
+Research draft · 18 November 2026 · Maki (penname) & GPT-6.1 Sol
 
 ## Abstract
 
